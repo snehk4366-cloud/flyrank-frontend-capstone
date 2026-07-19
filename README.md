@@ -1,3 +1,7 @@
-# flyrank-frontend-capstone
+# FlyRank Frontend Capstone
+
+A frontend development capstone project built as part of the FlyRank AI Internship.
+
 ## Toolchain
-Using Claude Code for development.
+* **AI Assistant:** Claude Code
+* **Runtime:** Node.js (LTS)
